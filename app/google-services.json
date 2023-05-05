@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479817648241",
+    "project_id": "workwaveproject",
+    "storage_bucket": "workwaveproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479817648241:android:c0b0cc189660784f3cb3d0",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479817648241-m8qbm1o9h7fb8a6j4k0ljjksuhssfih4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWSjPIkZrOK6tBWPmHXZ26Rx9QgQH_tBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479817648241-m8qbm1o9h7fb8a6j4k0ljjksuhssfih4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
