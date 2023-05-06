@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etEnterName" type="id" />
+    <item name="etEnterCity" type="id" />
+    <item name="etEnterCharges" type="id" />
+    <item name="etEntreDesc" type="id" />
+    <item name="btnPost" type="id" />
+    <item name="btnCancel" type="id" />
+</resources>
