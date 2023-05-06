@@ -59,7 +59,7 @@ class EmployeeDetailsActivity : AppCompatActivity() {
         tvEmpSalary.text = intent.getStringExtra("empSalary")
 
     }
-
+//delete funtion calling
     private fun deleteRecord(
         id: String
     ){
