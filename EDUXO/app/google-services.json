@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217526054547",
+    "project_id": "eduxo-e9e4e",
+    "storage_bucket": "eduxo-e9e4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217526054547:android:6a46501aa1cce5808e2766",
+        "android_client_info": {
+          "package_name": "com.example.eduxo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217526054547-4gd87cv54ck2996urt0e5fmhmucs3g06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBljjh61u0_OuY3km8LIt5q2pDjC3WMw7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217526054547-4gd87cv54ck2996urt0e5fmhmucs3g06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
