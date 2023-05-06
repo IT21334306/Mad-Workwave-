@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316855591365",
+    "project_id": "backpacking-guider",
+    "storage_bucket": "backpacking-guider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316855591365:android:d1342410efd820c0b7ebac",
+        "android_client_info": {
+          "package_name": "com.example.eduxo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316855591365-sb4kmd324de6kn0vlvlnmrd8k6rcmo7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDorZtpTnvZ5CV59moKrqf2rLqO8zsvLh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316855591365-sb4kmd324de6kn0vlvlnmrd8k6rcmo7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
